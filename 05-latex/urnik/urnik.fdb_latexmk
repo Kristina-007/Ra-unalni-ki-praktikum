@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1793635062.5775 "c:/Users/kj51792/rp/racunalniski-praktikum/05-latex/urnik/urnik.tex" "urnik.pdf" "urnik" 1793635063.76213 0
+["pdflatex"] 1793706362.52522 "c:/Users/kj51792/rp/Ra-unalni-ki-praktikum/05-latex/urnik/urnik.tex" "urnik.pdf" "urnik" 1793706363.51092 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256929440 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -75,8 +75,8 @@
   "C:/Program Files/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Program Files/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "C:/Users/kj51792/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1793630162 82507 a9eef8696c92627b87e9975edea03b2a ""
-  "C:/Users/kj51792/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1793625954 13357503 ab22843894caa696ced6655d517a59be ""
+  "C:/Users/kj51792/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1793705249 82507 a9eef8696c92627b87e9975edea03b2a ""
+  "C:/Users/kj51792/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1793703613 13357503 7c1909cd5d600b7ec5a2bd776f7423c8 ""
   "C:/Users/kj51792/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/kj51792/AppData/Roaming/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "C:/Users/kj51792/AppData/Roaming/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty" 1576433666 8371 9d55b8bd010bc717624922fb3477d92e ""
@@ -93,10 +93,10 @@
   "C:/Users/kj51792/AppData/Roaming/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/kj51792/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/kj51792/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
-  "c:/Users/kj51792/rp/racunalniski-praktikum/05-latex/urnik/urnik.tex" 1793635061 29647 c136fb92f5d4f70e3daed4886e20101c ""
-  "urnik.aux" 1793635063 1936 452c663df6f2f800c256f1840bab4ac7 "pdflatex"
-  "urnik.out" 1793635063 1917 4b448c14842e78aea7e8f74d62630451 "pdflatex"
-  "urnik.tex" 1793635061 29647 c136fb92f5d4f70e3daed4886e20101c ""
+  "c:/Users/kj51792/rp/Ra-unalni-ki-praktikum/05-latex/urnik/urnik.tex" 1793706361 30218 2a6e2a43fe7531bcf5456984dc0d5213 ""
+  "urnik.aux" 1793706363 1936 452c663df6f2f800c256f1840bab4ac7 "pdflatex"
+  "urnik.out" 1793706363 1917 4b448c14842e78aea7e8f74d62630451 "pdflatex"
+  "urnik.tex" 1793706361 30218 2a6e2a43fe7531bcf5456984dc0d5213 ""
   (generated)
   "urnik.aux"
   "urnik.log"
