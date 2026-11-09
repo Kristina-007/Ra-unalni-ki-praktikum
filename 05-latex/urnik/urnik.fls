@@ -1,6 +1,6 @@
-PWD c:\Users\kj51792\rp\racunalniski-praktikum\05-latex\urnik
+PWD c:\Users\kj51792\rp\Ra-unalni-ki-praktikum\05-latex\urnik
 INPUT C:\Users\kj51792\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\kj51792\rp\racunalniski-praktikum\05-latex\urnik\urnik.tex
+INPUT c:\Users\kj51792\rp\Ra-unalni-ki-praktikum\05-latex\urnik\urnik.tex
 OUTPUT urnik.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -9,9 +9,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
@@ -25,6 +22,9 @@ INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-sl.ini
 INPUT C:\Users\kj51792\AppData\Roaming\MiKTeX\tex\latex\babel-slovenian\slovenian.ldf
 INPUT C:\Users\kj51792\AppData\Roaming\MiKTeX\tex\latex\babel-slovenian\slovenian.ldf
 INPUT C:\Users\kj51792\AppData\Roaming\MiKTeX\tex\latex\babel-slovenian\slovenian.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\lmodern.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\lmodern.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.11.2)  2 NOV 2026 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.11.3)  3 NOV 2026 12:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/kj51792/rp/racunalniski-praktikum/05-latex/urnik/urnik.tex
-(c:/Users/kj51792/rp/racunalniski-praktikum/05-latex/urnik/urnik.tex
+**c:/Users/kj51792/rp/Ra-unalni-ki-praktikum/05-latex/urnik/urnik.tex
+(c:/Users/kj51792/rp/Ra-unalni-ki-praktikum/05-latex/urnik/urnik.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -27,8 +27,6 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2026/08/08 v26.10 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count284
@@ -63,7 +61,9 @@ Package babel Info: Importing font and identification data for 'slovene'
  (C:\Users\kj51792\AppData\Roaming\MiKTeX\tex/latex/babel-slovenian\slovenian.ldf
 Language: slovenian 2025/05/10 v1.2p Slovenian support from the babel system
 Package babel Info: Making " an active character on input line 80.
-)) (C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
+)) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -343,15 +343,15 @@ Package rerunfilecheck Info: File `urnik.out' has not changed.
 (rerunfilecheck)             Checksum: 4B448C14842E78AEA7E8F74D62630451;1917.
  ) 
 Here is how much of TeX's memory you used:
- 9937 strings out of 467501
- 157256 string characters out of 5418653
+ 9934 strings out of 467501
+ 157212 string characters out of 5418653
  590240 words of memory out of 5000000
- 39028 multiletter control sequences out of 15000+600000
+ 39025 multiletter control sequences out of 15000+600000
  677401 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,5n,79p,309b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on urnik.pdf (9 pages, 314377 bytes).
+Output written on urnik.pdf (9 pages, 315314 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  37 named destinations out of 1000 (max. 500000)
