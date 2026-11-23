@@ -9,8 +9,7 @@
 \usepackage{amsmath}
 \usepackage{amsthm}
 \usepackage{amssymb}
-\usepackage{hyperref}
-\newcommand{\f}{\mathcal{\mathcal}
+\newcommand{\f}{\mathcal{F}}
 {\theoremstyle{plain}
 \newtheorem{izrek}{Izrek}
 \newtheorem{posledica}{Posledica}
@@ -62,12 +61,12 @@ ki predstavlja naključno gibanje delcev v mediju.
     \begin{izrek}
     \label{thm:stopped_brownian}
     Naj bo \(\{B_t\}_{t \geq 0}\) (standardno) Brownovo gibanje, \(\tau\) čas ustavljanja glede na
-    \((\f_t)_{t\geq 0}\left(\right)in naj velja \( \mathacal{P}[\tau>\infty]=1\)\)
+    \((\f_t)_{t\geq 0}\left(\right)\)in naj velja \( \mathcal{P}[\tau>\infty]=1\)
     Potem je tudi proces:
     \[
     \hat{B} := \{B_{\tau+t} - B_\tau \mid t \geq 0\}
     \]
-    (standardno) Brownovo gibanje in neodvisen od !!.
+    (standardno) Brownovo gibanje in neodvisen od \(\f_\mathcal{T}\).
     \end{izrek}
     % Konec izreka
 
